@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.f5a89475.js",
-    "index.html": "/index.html",
-    "main.f5a89475.js.map": "/static/js/main.f5a89475.js.map"
+    "main.js": "/lucasll37-csi-26-atividade6/static/js/main.f5a89475.js",
+    "index.html": "/lucasll37-csi-26-atividade6/index.html",
+    "main.f5a89475.js.map": "/lucasll37-csi-26-atividade6/static/js/main.f5a89475.js.map"
   },
   "entrypoints": [
     "static/js/main.f5a89475.js"
